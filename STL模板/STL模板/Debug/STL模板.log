@@ -1,0 +1,14 @@
+﻿  string.cpp
+  string拼接.cpp
+  初识.cpp
+  zz格式cpp.cpp
+  嵌套.cpp
+  查找.cpp
+  比较.cpp
+F:\C++\STL模板\STL模板\比较.cpp(32,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++\STL模板\STL模板\比较.cpp(38,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++\STL模板\STL模板\比较.cpp(77,6): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  自定义数据类型.cpp
+  赋值.cpp
+  正在生成代码...
+  STL模板.vcxproj -> F:\C++\STL模板\Debug\STL模板.exe

@@ -1,0 +1,3 @@
+﻿  cs.cpp
+F:\C\cxq4.3\cxq4.3\cs.cpp(81,2): warning C4305: “初始化”: 从“double”到“float”截断
+  cxq4.3.vcxproj -> F:\C\cxq4.3\Debug\cxq4.3.exe
